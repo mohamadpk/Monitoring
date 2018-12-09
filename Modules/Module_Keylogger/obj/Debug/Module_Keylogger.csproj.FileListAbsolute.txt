@@ -1,0 +1,11 @@
+C:\Users\mohamadpk\Desktop\Monitoring_from_svn\Modules\Module_Keylogger\bin\Debug\Module_Keylogger.dll
+C:\Users\mohamadpk\Desktop\Monitoring_from_svn\Modules\Module_Keylogger\bin\Debug\Module_Keylogger.pdb
+C:\Users\mohamadpk\Desktop\Monitoring_from_svn\Modules\Module_Keylogger\bin\Debug\System.Net.Http.dll
+C:\Users\mohamadpk\Desktop\Monitoring_from_svn\Modules\Module_Keylogger\bin\Debug\System.Net.Http.xml
+C:\Users\mohamadpk\Desktop\Monitoring_from_svn\Modules\Module_Keylogger\obj\Debug\Module_Keylogger.dll
+C:\Users\mohamadpk\Desktop\Monitoring_from_svn\Modules\Module_Keylogger\obj\Debug\Module_Keylogger.pdb
+C:\Users\mohamadpk\Desktop\Monitoring_from_svn\Modules\Module_Keylogger\bin\Debug\Utils.dll
+C:\Users\mohamadpk\Desktop\Monitoring_from_svn\Modules\Module_Keylogger\bin\Debug\System.Data.SQLite.dll
+C:\Users\mohamadpk\Desktop\Monitoring_from_svn\Modules\Module_Keylogger\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mohamadpk\Desktop\Monitoring_from_svn\Modules\Module_Keylogger\bin\Debug\Utils.pdb
+C:\Users\mohamadpk\Desktop\Monitoring_from_svn\Modules\Module_Keylogger\bin\Debug\System.Data.SQLite.xml
